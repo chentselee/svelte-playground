@@ -1,8 +1,7 @@
 <script>
-  export let text;
+  export let text
 </script>
 
-<button
-  class="px-4 py-1 rounded text-gray-700 shadow-sm font-bold capitalize font-mono"
+<button class="px-4 py-1 rounded text-gray-700 shadow-sm font-bold capitalize font-mono"
   >{text}</button
 >
